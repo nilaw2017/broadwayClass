@@ -1,0 +1,86 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.clear-right{
+	clear: right;
+}
+.clear-both{
+	clear: both;
+}
+.clear-left{
+	clear: left;
+}
+
+.mainContainer{
+	width: 800px;
+	height: 100%;
+	border-style: solid;
+	margin: 0 auto;
+	padding: 0 30px;
+	border-width: 1px;
+	border-color: black;
+}
+
+/*HeaderContainer*/
+.header{
+	
+	border-color: green;
+	border-style: solid;
+	border-width: 1px;
+	background-color: pink;
+	height: 100px
+}
+.logo{
+	float: left;
+	border-color: green;
+	border-style: solid;
+	border-width: 1px;
+	width: 200px;
+	height: 99px;
+	text-align: center;
+	
+}
+.link{
+	float: right;
+	border-color: grey;
+	border-style: solid;
+	border-width: 1px;
+	margin-bottom: 20px;
+	font-size: 20px;
+}
+.nav{
+	float: right;
+	border-color: black;
+	border-style: solid;
+	border-width: 1px;
+	font-size: 20px;
+	margin-top: 30px;
+	width: 500px;
+	text-align: center; 
+}
+
+/*TOPBODY*/
+.top-body{
+	margin-top: 10px;
+	border-color: black;
+	border-style: solid;
+	border-width: 1px;
+	height: 200px;
+}
+
+.AD{
+	margin: 20px 0;
+}
+
+
+
+.nav1{
+	float: left;
+	width: 32%;
+	height: 100px;
+	border-color: black;
+	border-style: solid;
+	border-width: 1px;
+	margin: 0 4.3px;
+}
